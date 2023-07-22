@@ -1,0 +1,164 @@
+{
+  "pokedex": [
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "health": "Health: 45",
+      "attack": "Attack: 49",
+      "defense": "Defense: 49"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+      "name": "Charmander",
+      "type": "Fire",
+      "health": "Health: 39",
+      "attack": "Attack: 52",
+      "defense": "Defense: 43"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+      "name": "Squirtle",
+      "type": "Water",
+      "health": "Health: 44",
+      "attack": "Attack: 48",
+      "defense": "Defense: 65"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
+      "name": "Pikachu",
+      "type": "Electric",
+      "health": "Health: 35",
+      "attack": "Attack: 55",
+      "defense": "Defense: 40"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
+      "name": "Jigglypuff",
+      "type": "Fairy",
+      "health": "Health: 115",
+      "attack": "Attack: 45",
+      "defense": "Defense: 20"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "health": "Health: 106",
+      "attack": "Attack: 110",
+      "defense": "Defense: 90"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/147.png",
+      "name": "Dragonite",
+      "type": "Dragon",
+      "health": "Health: 91",
+      "attack": "Attack: 134",
+      "defense": "Defense: 95"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/093.png",
+      "name": "Gengar",
+      "type": "Ghost",
+      "health": "Health: 60",
+      "attack": "Attack: 65",
+      "defense": "Defense: 60"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/064.png",
+      "name": "Alakazam",
+      "type": "Psychic",
+      "health": "Health: 55",
+      "attack": "Attack: 50",
+      "defense": "Defense: 45"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/130.png",
+      "name": "Gyarados",
+      "type": "Water",
+      "health": "Health: 95",
+      "attack": "Attack: 125",
+      "defense": "Defense: 79"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
+      "name": "Machamp",
+      "type": "Fighting",
+      "health": "Health: 90",
+      "attack": "Attack: 130",
+      "defense": "Defense: 80"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/131.png",
+      "name": "Lapras",
+      "type": "Water",
+      "health": "Health: 130",
+      "attack": "Attack: 85",
+      "defense": "Defense: 80"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
+      "name": "Arcanine",
+      "type": "Fire",
+      "health": "Health: 90",
+      "attack": "Attack: 110",
+      "defense": "Defense: 80"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/133.png",
+      "name": "Eevee",
+      "type": "Normal",
+      "health": "Health: 55",
+      "attack": "Attack: 55",
+      "defense": "Defense: 50"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/134.png",
+      "name": "Vaporeon",
+      "type": "Water",
+      "health": "Health: 130",
+      "attack": "Attack: 65",
+      "defense": "Defense: 60"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/135.png",
+      "name": "Jolteon",
+      "type": "Electric",
+      "health": "Health: 65",
+      "attack": "Attack: 65",
+      "defense": "Defense: 60"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/136.png",
+      "name": "Flareon",
+      "type": "Fire",
+      "health": "Health: 65",
+      "attack": "Attack: 130",
+      "defense": "Defense: 60"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/142.png",
+      "name": "Aerodactyl",
+      "type": "Rock",
+      "health": "Health: 80",
+      "attack": "Attack: 105",
+      "defense": "Defense: 65"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
+      "name": "Articuno",
+      "type": "Ice",
+      "health": "Health: 90",
+      "attack": "Attack: 85",
+      "defense": "Defense: 100"
+    },
+    {
+      "img": "http://www.serebii.net/pokemongo/pokemon/145.png",
+      "name": "Zapdos",
+      "type": "Electric",
+      "health": "Health: 90",
+      "attack": "Attack: 90",
+      "defense": "Defense: 85"
+    }
+  ]
+}
