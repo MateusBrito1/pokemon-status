@@ -53,6 +53,10 @@ class PokemonTable {
   criarImagemPokemon(src) {
     const img = document.createElement("img");
     img.src = src;
+
+    img.addEventListener("click", function () {
+      window.location.href = "info.html";
+    });
     return img;
   }
 }

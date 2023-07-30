@@ -64,6 +64,20 @@ table td {
   padding: 8px;
 }
 
+.pesquisa {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#search {
+  padding: 15px;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 15px;
+  font-family: var(--fonte-principal);
+  padding-top: 15px;
+}
+
 @media only screen and (max-width: 768px) {
   body {
     font-size: 0.9em;
